@@ -14,3 +14,7 @@ Deployment details
 ##Other description
 
 ##How to contributie
+
+##Copyright
+
+Details of copyright
