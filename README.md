@@ -15,6 +15,8 @@ Deployment details
 
 ##How to contributie
 
+Please fork this repo
+
 ##Copyright
 
 Details of copyright
