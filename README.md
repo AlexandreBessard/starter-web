@@ -21,4 +21,4 @@ Please fork this repo
 
 ##Copyright
 
-Details of copyright
+Details of copyright, All rights reserved
